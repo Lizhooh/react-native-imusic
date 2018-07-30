@@ -1,0 +1,25 @@
+{
+  "name": "react-native-imusic",
+  "version": "1.0.0",
+  "description": "React-native-imusic is a music player component similar to HTML5 Audio.",
+  "main": "index.js",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react-native-sound": "^0.10.9"
+  },
+  "author": "lizhooh",
+  "license": "MIT",
+  "keywords": [
+    "react-native-imusic",
+    "react-native-music",
+    "react-native-play",
+    "music",
+    "audio",
+    "react-music",
+    "react-native-sound"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lizhooh/react-native-imusic"
+  }
+}
