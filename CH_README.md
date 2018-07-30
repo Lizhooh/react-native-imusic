@@ -83,7 +83,6 @@ __event:__
 | onPause        | function | e => e  | 暂停时触发。           |
 | onEnd          | function | e => e  | 播放结束时触发。         |
 | onError        | function | e => e  | 在加载或者播放时发生错误时触发。 |
-| onVolumeChange | function | e => e  | 音乐声音大小改变时触发。     |
 
 __onProgress 的回调参数数据:__
 

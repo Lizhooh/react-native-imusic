@@ -86,7 +86,6 @@ __event:__
 | onPause        | function | e => e  | fires when the music is paused.          |
 | onEnd          | function | e => e  | fires when the music ends.               |
 | onError        | function | e => e  | fires when an error occurs in music playback/loading. |
-| onVolumeChange | function | e => e  | fires when the music sound changes       |
 
 __onProgress callback param data:__
 
