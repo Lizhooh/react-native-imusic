@@ -68,6 +68,7 @@ Please check [example code](./example/index.js).
 | :--------------------- | :----- | :------ | :--------------------------------------- |
 | source                 | object | {}      | music source, __@required__.             |
 | play                   | bool   | false   | whether to play music, __@required__.    |
+| loop                   | bool   | false   | whether to loop play music.              |
 | autoPlay               | bool   | false   | Whether to play automatically after loading is complete. |
 | preload                | bool   | false   | Whether to preload.                      |
 | initSeek               | number | 0       | Initialize playback position.            |

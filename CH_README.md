@@ -65,6 +65,7 @@ import IVideo from 'react-native-imusic';
 | :--------------------- | :----- | :------ | :-------------------- |
 | source                 | object | {}      | 音乐数据源，__@required__。  |
 | play                   | bool   | false   | 是否播放音乐，__@required__。 |
+| loop                   | bool   | false   | 是否是循环播放。               |
 | autoPlay               | bool   | false   | 是否在加载完成后播放音乐。         |
 | preload                | bool   | false   | 是否进行预加载。              |
 | initSeek               | number | 0       | 初始化音乐播放位置。            |
