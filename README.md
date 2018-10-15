@@ -5,9 +5,9 @@ React-native-imusic is a music player component similar to HTML5 Audio, based on
 <a href="https://www.npmjs.com/package/react-native-imusic"><img src="https://img.shields.io/npm/v/react-native-imusic.svg?style=flat-square"></a>
 <a href="https://www.npmjs.com/package/react-native-imusic"><img src="https://img.shields.io/npm/dm/react-native-imusic.svg?style=flat-square"></a>
 
+react-native-imusic 是一个类似 HTML5 Audio 的音乐播放组件，其底层基于 react-native-sound。[中文说明 -> 点这里](./CH_README.md)
 
-[中文说明 -> 点这里](./CH_README.md)
-
+![](./example/image/16470418034435.png)
 
 ### Installation
 
