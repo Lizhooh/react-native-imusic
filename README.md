@@ -44,17 +44,13 @@ allprojects {
 ### Usage
 
 ```js
-import IVideo from 'react-native-imusic';
+import IMusic from 'react-native-imusic';
 
 <IMusic
-    ref={r => this.music = r}
     source={{ uri: song.url }}
     play={play}
     onProgress={d => {
-        if (!this.$lock) {
-            this.slider.update(d.currentTime, d.duration);
-            this.songtime.update(d.currentTime, d.duration);
-        }
+        // ...
     }}
 />
 ```
